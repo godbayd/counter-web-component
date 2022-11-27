@@ -1,5 +1,7 @@
 # x-counter
 
+![image of x-counter component](x-counter-web-component.png)
+
 ### \<x-counter count="0" step="1" text-size="1rem"\>\<\/x-counter\>
 **default attribute values:** count=0 step=1 text-size=1rem
 - `count` current count's number value.
